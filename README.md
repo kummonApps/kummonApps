@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align = "center"> Hola somos: KummonApps </h1>
+<h2 align = "center"> Estudiantes de DAW2 de Ilerna. </h2>
+<h3 align = "center"> El grupo esta compuesto por:</h3>
+<h3 align = "center"><a href="https://github.com/Malsone">Marc Llabot </a></h3>
+<h3 align = "center"><a href="https://github.com/LxEvan">Cristian Tortosa </a></h3>
+<h3 align = "center"><a href="https://github.com/SusannaMontero">Susana Montero </a></h3>
+<h3 align = "center"><a href="https://github.com/JosepRodriguez90">Josep Rodriguez </a></h3>
+<h3 align = "center"><a href="https://github.com/SrObis">Jordi Obis </a></h3>
 
-<!--
-**kummonApps/kummonApps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align = "left"> <img src = "https: / /komarev.com/ghpvc/?username=kummonapps&label=Profile%20views&color=0e75b6&style=flat "alt =" kummonapps "/> </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p> <img align =" left "src =" https: // github- readme-stats.vercel.app/api/top-langs?username=kummonapps&show_icons=true&locale=en&layout=compact "alt =" kummonapps "/> </p>
+
+<p> & nbsp; <img align =" center "src =" https://github-readme-stats.vercel.app/api?username=kummonapps&show_icons=true&locale=en "alt =" kummonapps "/> </p>
