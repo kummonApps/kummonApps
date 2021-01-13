@@ -1,6 +1,6 @@
-<h1 align = "center"> Hola somos: KummonApps </h1>
-<h2 align = "center"> Estudiantes de DAW2 de Ilerna. </h2>
-<h3 align = "center"> El grupo esta compuesto por:</h3>
+<h1 align = "center"> Hi We are: KummonApps </h1>
+<h2 align = "center"> Students DAW2 in Ilerna. </h2>
+<h3 align = "center"> The group is made up by:</h3>
 <h3 align = "center"><a href="https://github.com/Malsone">Marc Llabot </a></h3>
 <h3 align = "center"><a href="https://github.com/LxEvan">Cristian Tortosa </a></h3>
 <h3 align = "center"><a href="https://github.com/SusannaMontero">Susana Montero </a></h3>
